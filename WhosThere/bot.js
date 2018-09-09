@@ -23,4 +23,4 @@ if(oldUserChannel === undefined && newUserChannel !== undefined) {
 }
 });
 
-client.login("NDg3Nzk2NTUyMjAzNzYzNzEy.DnS48Q.q2TebKKKcDIOEAvXS-s6dU2MMeo");
+client.login("");
