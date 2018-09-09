@@ -1,0 +1,18 @@
+{
+  "name": "WhosThere",
+  "version": "1.0.0",
+  "description": "Tells you who the fuck is here.",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "discord.js": "^11.4.2",
+    "winston": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
